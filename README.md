@@ -1,0 +1,1 @@
+Django simple CRUD example
